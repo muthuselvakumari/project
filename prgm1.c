@@ -6,7 +6,7 @@ scanf("%d",&n);
 if(n>0)
 {printf("\n the given number is positive");}
 if(n<0)
-printf("\n the given number is negative");
+printf("\n the given number is negative");}
+
 else
 printf("\n the given number is zero");}
-}
